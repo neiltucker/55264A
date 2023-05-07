@@ -4,7 +4,6 @@ This five-day instructor-led course is intended for students who want to learn h
 Audience<br>
 This course is intended for new and experienced programmers that want to learn how to write and troubleshoot Python code. Previous programming experience is not required.
 
-At Course Completion<br>
 After completing this course, students will be able to:<br>
 • Create Operations using Data Types and Operators<br>
 • Create Control Flow Operations<br>
